@@ -1,0 +1,1 @@
+const util_senk = (d: any) => d;
